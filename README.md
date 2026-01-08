@@ -1,7 +1,5 @@
 <h1 align="center"> Fresh Xscriptor </h1>
 
-<p align="center">Xscriptor themes for Fresh</p>
-
 
 <p align="center"><img src="./assets/icon.png" width="200" alt="Xscriptor logo" /></p>
 
@@ -52,5 +50,59 @@
   </table>
 </details>
 
+## Overview
 
-Repository under construction, you can find the files inside the themes folder.
+Custom color themes for Fresh, the terminal text editor. This repository contains multiple JSON theme files compatible with Fresh. Install them into `~/.config/fresh/themes`.
+
+## Installation
+
+Run the installer remotely with either curl or wget:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/xscriptordev/fresh/main/installer.sh | bash
+```
+
+```bash
+wget -qO- https://raw.githubusercontent.com/xscriptordev/fresh/main/installer.sh | bash
+```
+
+The installer creates `~/.config/fresh/themes` if it does not exist and copies all themes there.
+
+## Uninstall
+
+Remove the installed themes with:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/xscriptordev/fresh/main/uninstaller.sh | bash
+```
+
+```bash
+wget -qO- https://raw.githubusercontent.com/xscriptordev/fresh/main/uninstaller.sh | bash
+```
+
+This removes the themes provided by this repository. If the directory becomes empty, it is removed.
+
+## Manual installation
+
+```bash
+mkdir -p ~/.config/fresh/themes
+cp -f themes/*.json ~/.config/fresh/themes/
+```
+
+## Available themes
+
+- berlin
+- bogota
+- helsinki
+- lahabana
+- madrid
+- miami
+- oslo
+- paris
+- praha
+- x
+
+## Notes
+
+- Fresh should read themes from `~/.config/fresh/themes`. Refer to Fresh’s documentation for selecting a theme inside the editor.
+- No elevated privileges are required. All operations target your home directory.
