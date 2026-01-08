@@ -50,6 +50,8 @@
   </table>
 </details>
 
+<p align="center">Essential settings to improve accessibility of Fresh using the Xscriptor themes.</p>
+
 ## Overview
 
 Custom color themes for Fresh, the terminal text editor. This repository contains multiple JSON theme files compatible with Fresh. Install them into `~/.config/fresh/themes`.
