@@ -1,0 +1,1 @@
+- [] Create an automated script for installation.
