@@ -1,7 +1,18 @@
 <h1 align="center"> Fresh Xscriptor </h1>
 
 
-<p align="center"><img src="./assets/icon.png" width="200" alt="Xscriptor logo" /></p>
+
+<div align="center">
+
+![fresh](https://xscriptordev.github.io/badges/editors/fresh.svg) ![shell](https://xscriptordev.github.io/badges/languages/shell.svg) ![mit](https://xscriptordev.github.io/badges/licenses/mit.svg)
+
+Essential settings to improve accessibility of Fresh using the Xscriptor themes.
+
+
+</div>
+
+<p align="center"><img src="./assets/icon.png" width="100" alt="Xscriptor logo" /></p>
+
 
 # Previews
 
@@ -12,7 +23,7 @@
 </p>
 
 <details>
-  <summary>More previews</summary>
+  <summary>More</summary>
 
   <table>
     <tr>
@@ -50,7 +61,7 @@
   </table>
 </details>
 
-<p align="center">Essential settings to improve accessibility of Fresh using the Xscriptor themes.</p>
+
 
 ## Overview
 
