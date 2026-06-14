@@ -42,9 +42,9 @@
       0
     ],
     "diff_add_bg": [
-      0,
+      127,
       255,
-      168
+      212
     ],
     "diff_remove_bg": [
       255,
@@ -274,9 +274,9 @@
       76
     ],
     "scrollbar_track_fg": [
-      105,
-      103,
-      108
+      0,
+      0,
+      0
     ],
     "scrollbar_thumb_fg": [
       105,
@@ -284,9 +284,9 @@
       108
     ],
     "scrollbar_track_hover_fg": [
-      105,
-      103,
-      108
+      0,
+      0,
+      0
     ],
     "scrollbar_thumb_hover_fg": [
       255,
@@ -417,9 +417,9 @@
       76
     ],
     "string": [
-      0,
+      127,
       255,
-      168
+      212
     ],
     "function": [
       71,
