@@ -42,26 +42,26 @@
       254
     ],
     "diff_add_bg": [
-      62,
-      157,
-      33
+      115,
+      61,
+      154
     ],
     "diff_remove_bg": [
-      189,
-      76,
-      61
+      31,
+      170,
+      158
     ],
     "diff_modify_bg": [
-      181,
-      90,
-      15
+      46,
+      112,
+      173
     ]
   },
   "ui": {
     "tab_active_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "tab_active_bg": [
       248,
@@ -84,9 +84,9 @@
       153
     ],
     "tab_close_hover_fg": [
-      189,
-      76,
-      61
+      31,
+      170,
+      158
     ],
     "tab_hover_bg": [
       248,
@@ -109,9 +109,9 @@
       254
     ],
     "menu_active_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "menu_dropdown_bg": [
       248,
@@ -124,9 +124,9 @@
       64
     ],
     "menu_highlight_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "menu_highlight_fg": [
       248,
@@ -149,9 +149,9 @@
       254
     ],
     "menu_hover_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "menu_disabled_fg": [
       176,
@@ -189,9 +189,9 @@
       254
     ],
     "prompt_selection_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "popup_border_fg": [
       176,
@@ -209,9 +209,9 @@
       254
     ],
     "popup_selection_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "popup_text_fg": [
       84,
@@ -224,9 +224,9 @@
       254
     ],
     "suggestion_selected_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "help_bg": [
       248,
@@ -239,9 +239,9 @@
       64
     ],
     "help_key_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "help_separator_fg": [
       176,
@@ -249,9 +249,9 @@
       153
     ],
     "help_indicator_fg": [
-      189,
-      76,
-      61
+      31,
+      170,
+      158
     ],
     "help_indicator_bg": [
       248,
@@ -269,9 +269,9 @@
       153
     ],
     "split_separator_hover_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "scrollbar_track_fg": [
       248,
@@ -289,9 +289,9 @@
       254
     ],
     "scrollbar_thumb_hover_fg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "compose_margin_bg": [
       248,
@@ -306,9 +306,9 @@
     "terminal_bg": "Default",
     "terminal_fg": "Default",
     "status_warning_indicator_bg": [
-      181,
-      90,
-      15
+      46,
+      112,
+      173
     ],
     "status_warning_indicator_fg": [
       248,
@@ -316,9 +316,9 @@
       254
     ],
     "status_error_indicator_bg": [
-      189,
-      76,
-      61
+      31,
+      170,
+      158
     ],
     "status_error_indicator_fg": [
       84,
@@ -346,9 +346,9 @@
       64
     ],
     "tab_drop_zone_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "tab_drop_zone_border": [
       46,
@@ -358,9 +358,9 @@
   },
   "search": {
     "match_bg": [
-      15,
-      91,
-      162
+      46,
+      112,
+      173
     ],
     "match_fg": [
       248,
@@ -370,9 +370,9 @@
   },
   "diagnostic": {
     "error_fg": [
-      189,
-      76,
-      61
+      31,
+      170,
+      158
     ],
     "error_bg": [
       176,
@@ -380,9 +380,9 @@
       153
     ],
     "warning_fg": [
-      181,
-      90,
-      15
+      46,
+      112,
+      173
     ],
     "warning_bg": [
       176,
@@ -390,9 +390,9 @@
       153
     ],
     "info_fg": [
-      31,
-      170,
-      158
+      189,
+      76,
+      61
     ],
     "info_bg": [
       176,
@@ -412,19 +412,19 @@
   },
   "syntax": {
     "keyword": [
+      46,
+      112,
+      173
+    ],
+    "string": [
       115,
       61,
       154
     ],
-    "string": [
-      181,
-      90,
-      15
-    ],
     "function": [
-      15,
-      91,
-      162
+      189,
+      76,
+      61
     ],
     "type": [
       31,
@@ -432,14 +432,14 @@
       158
     ],
     "variable": [
-      189,
-      76,
-      61
+      84,
+      77,
+      64
     ],
     "constant": [
-      62,
-      157,
-      33
+      115,
+      61,
+      154
     ],
     "operator": [
       62,

@@ -274,9 +274,9 @@
       137
     ],
     "scrollbar_track_fg": [
-      82,
-      80,
-      83
+      20,
+      6,
+      6
     ],
     "scrollbar_thumb_fg": [
       82,
@@ -284,9 +284,9 @@
       83
     ],
     "scrollbar_track_hover_fg": [
-      82,
-      80,
-      83
+      20,
+      6,
+      6
     ],
     "scrollbar_thumb_hover_fg": [
       255,
@@ -437,9 +437,9 @@
       255
     ],
     "constant": [
-      71,
-      230,
-      255
+      123,
+      216,
+      143
     ],
     "operator": [
       255,
