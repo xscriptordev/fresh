@@ -11,84 +11,44 @@
 
 <p align="center"><em>Essential settings to improve accessibility of Fresh using the Xscriptor themes.</em></p>
 
-<p align="center"><img src="./assets/icon.png" width="45" alt="Xscriptor logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/terminal/logo.svg" width="45" alt="Xscriptor logo"/></p>
 
-<!-- Table of Contents -->
-<table border="1">
-    <tr>
-        <th>Table of Contents</th>
-    </tr>
-    <tr>
-        <td><a href="#overview">Overview</a></td>
-    </tr>
-    <tr>
-        <td><a href="#installation">Installation</a></td>
-    </tr>
-    <tr>
-        <td><a href="#uninstall">Uninstall</a></td>
-    </tr>
-    <tr>
-        <td><a href="#manual-installation">Manual Installation</a></td>
-    </tr>
-    <tr>
-        <td><a href="#available-themes">Available Themes</a></td>
-    </tr>
-    <tr>
-        <td><a href="#notes">Notes</a></td>
-    </tr>
-    <tr>
-        <td><a href="#related-documents">Related Documents</a></td>
-    </tr>
-    <tr>
-        <td><a href="#x">X</a></td>
-    </tr>
-</table>
+<!-- Contents -->
+<ul>
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#uninstall">Uninstall</a></li>
+  <li><a href="#manual-installation">Manual Installation</a></li>
+  <li><a href="#available-themes">Available Themes</a></li>
+  <li><a href="#colors">Colors</a></li>
+  <li><a href="#notes">Notes</a></li>
+  <li><a href="#related-documents">Related Documents</a></li>
+  <li><a href="#related-repos">Related Repos</a></li>
+  <li><a href="#x">X</a></li>
+</ul>
 
 <!-- Previews -->
 <h2 align="center"><em>Previews</em></h2>
-<p align="center">
-  <a href="./assets/previews/preview1.jpg">
-    <img src="./assets/previews/preview1.jpg" alt="Main preview" width="850"/>
-  </a>
-</p>
+<a href="https://imgur.com/x3YhvYO">
+<img src="https://i.imgur.com/AloFmqb.gif" width="900" alt="Demo" >
+</a>
 
 <details>
   <summary>More</summary>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="./assets/previews/preview2.jpg">
-          <img src="./assets/previews/preview2.jpg" alt="Preview 3" width="380"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/previews/preview3.jpg">
-          <img src="./assets/previews/preview3.jpg" alt="Preview 4" width="380"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/previews/preview4.jpg">
-          <img src="./assets/previews/preview4.jpg" alt="Preview 5" width="380"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/previews/preview5.jpg">
-          <img src="./assets/previews/preview5.jpg" alt="Preview 6" width="380"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/previews/preview6.jpg">
-          <img src="./assets/previews/preview6.jpg" alt="Preview 7" width="380"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/previews/preview7.jpg">
-          <img src="./assets/previews/preview7.jpg" alt="Preview 8" width="380"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview1.jpg" alt="Preview 1" width="380"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview2.jpg" alt="Preview 2" width="380"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview3.jpg" alt="Preview 3" width="380"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview4.jpg" alt="Preview 4" width="380"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview5.jpg" alt="Preview 5" width="380"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview6.jpg" alt="Preview 6" width="380"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview7.jpg" alt="Preview 7" width="380"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview8.jpg" alt="Preview 8" width="380"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview9.jpg" alt="Preview 9" width="380"/>
 </details>
 
 
@@ -146,6 +106,27 @@ cp -f themes/*.json ~/.config/fresh/themes/
 </ul>
 
 
+
+<h2 align="center" id="colors">Colors</h2>
+
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_x.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_x.svg" height="100" alt="X"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_madrid.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_madrid.svg" height="100" alt="Madrid"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_lahabana.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_lahabana.svg" height="100" alt="Lahabana"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_miami.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_miami.svg" height="100" alt="Miami"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_paris.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_paris.svg" height="100" alt="Paris"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_tokio.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_tokio.svg" height="100" alt="Tokio"/></a>
+</div>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_oslo.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_oslo.svg" height="100" alt="Oslo"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_helsinki.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_helsinki.svg" height="100" alt="Helsinki"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_berlin.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_berlin.svg" height="100" alt="Berlin"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_london.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_london.svg" height="100" alt="London"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_praha.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_praha.svg" height="100" alt="Praha"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_bogota.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_bogota.svg" height="100" alt="Bogota"/></a>
+</div>
+
 <h2 align="center" id="related-documents">Related Documents</h2>
 
 <ul>
@@ -158,9 +139,30 @@ cp -f themes/*.json ~/.config/fresh/themes/
 </ul>
 
 
-<div align="center">
-<h2 align="center" id="x">X</h2>
+<h2 align="center" id="related-repos">Related Repos</h2>
+<ul>
+  <li><a href="https://github.com/xscriptor/terminal">Terminal </a> <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/terminal-bash.svg" /></li>
+  <li><a href="https://github.com/xscriptor/nvim">Nvim </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/file-text.svg"/></li>
+  <li><a href="https://github.com/xscriptor/jetbrains">Jetbrains </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/project.svg"/></li>
+  <li><a href="https://github.com/xscriptor/gitnapse">Gitnapse </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github-alt.svg"/></li>
+  <li><a href="https://github.com/xscriptor/obsidian">Obsidian </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/markdown.svg"/></li>
+  <li><a href="https://github.com/xscriptor/xfetch">XFetch </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/git-fetch.svg"/></li>
+  <li><a href="https://github.com/xscriptor/vscode">Vscode </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/project.svg"/></li>
+</ul>
 
-<a href="https://github.com/xscriptor">XGitHub</a> &middot;
-<a href="https://dev.xscriptor.com">XWeb</a>
+<div id="x" align="center">
+<h2>X</h2>
+
+<a href="https://dev.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+</a>
+ & 
+<a href="https://github.com/xscriptor">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+</a>
+ & 
+<a href="https://www.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+</a>
+
 </div>
