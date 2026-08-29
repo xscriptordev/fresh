@@ -27,26 +27,8 @@
 </ul>
 
 <!-- Previews -->
-<h2 align="center"><em>Previews</em></h2>
+<h2 align="center"><em>Preview</em></h2>
 <img src="https://xscriptor-colors.github.io/web/images/gifs/fresh/fresh-demo.gif" width="900" alt="Fresh Demo" >
-
-<details>
-  <summary>More</summary>
-
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview1.jpg" alt="Preview 1" width="380"/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview2.jpg" alt="Preview 2" width="380"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview3.jpg" alt="Preview 3" width="380"/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview4.jpg" alt="Preview 4" width="380"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview5.jpg" alt="Preview 5" width="380"/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview6.jpg" alt="Preview 6" width="380"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview7.jpg" alt="Preview 7" width="380"/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview8.jpg" alt="Preview 8" width="380"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/fresh/preview9.jpg" alt="Preview 9" width="380"/>
-</details>
 
 
 <!-- Overview -->
