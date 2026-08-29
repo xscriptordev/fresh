@@ -141,9 +141,9 @@ cp -f themes/*.json ~/.config/fresh/themes/
   <li><a href="https://github.com/xscriptor-colors/terminal">Terminal </a></li>
   <li><a href="https://github.com/xscriptor-colors/nvim">Nvim </a></li>
   <li><a href="https://github.com/xscriptor-colors/jetbrains">Jetbrains </a></li>
-  <li><a href="https://github.com/xscriptor/gitnapse">Gitnapse </a></li>
+  <li><a href="https://github.com/gitnapse/gitnapse">Gitnapse </a></li>
   <li><a href="https://github.com/xscriptor-colors/obsidian">Obsidian </a></li>
-  <li><a href="https://github.com/xscriptor/xfetch">XFetch </a></li>
+  <li><a href="https://github.com/xfetch-cli/xfetch">XFetch </a></li>
   <li><a href="https://github.com/xscriptor-colors/vscode">Vscode </a></li>
 </ul>
 
