@@ -1,4 +1,5 @@
-<h1 align="center">Fresh Xscriptor</h1>
+<h1 align="center"><em>Fresh </em><img src="https://raw.githubusercontent.com/xscriptor-colors/web/main/public/svg/icons/fresh.svg" width="30" alt="Fresh Colors logo" />
+</h1>
 <div align="center">
     <img src="https://img.shields.io/github/license/xscriptor-colors/fresh?style=flat-square" alt="MIT License" />
     <img src="https://img.shields.io/github/stars/xscriptor-colors/fresh?style=flat-square" alt="GitHub Stars" />
@@ -10,8 +11,6 @@
 </div>
 
 <p align="center"><em>Essential settings to improve accessibility of Fresh using the Xscriptor themes.</em></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/terminal/logo.svg" width="45" alt="Xscriptor logo"/></p>
 
 <!-- Contents -->
 <ul>
@@ -29,9 +28,8 @@
 
 <!-- Previews -->
 <h2 align="center"><em>Previews</em></h2>
-<a href="https://imgur.com/x3YhvYO">
-<img src="https://i.imgur.com/AloFmqb.gif" width="900" alt="Demo" >
-</a>
+<video src="https://xscriptor-colors.github.io/web/images/fresh/preview.mp4" width="900" controls muted loop playsinline autoplay>
+</video>
 
 <details>
   <summary>More</summary>
