@@ -1,4 +1,5 @@
-<h1 align="center">Fresh Xscriptor</h1>
+<h1 align="center"><em>Fresh </em><img src="https://raw.githubusercontent.com/xscriptor-colors/web/main/public/svg/icons/fresh.svg" width="30" alt="Fresh Colors logo" />
+</h1>
 <div align="center">
     <img src="https://img.shields.io/github/license/xscriptor-colors/fresh?style=flat-square" alt="MIT License" />
     <img src="https://img.shields.io/github/stars/xscriptor-colors/fresh?style=flat-square" alt="GitHub Stars" />
@@ -10,8 +11,6 @@
 </div>
 
 <p align="center"><em>Essential settings to improve accessibility of Fresh using the Xscriptor themes.</em></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/xrepos/terminal/logo.svg" width="45" alt="Xscriptor logo"/></p>
 
 <!-- Contents -->
 <ul>
@@ -29,9 +28,7 @@
 
 <!-- Previews -->
 <h2 align="center"><em>Previews</em></h2>
-<a href="https://imgur.com/x3YhvYO">
-<img src="https://i.imgur.com/AloFmqb.gif" width="900" alt="Demo" >
-</a>
+<img src="https://xscriptor-colors.github.io/web/images/gifs/fresh/fresh-demo.gif" width="900" alt="Fresh Demo" >
 
 <details>
   <summary>More</summary>
@@ -141,28 +138,22 @@ cp -f themes/*.json ~/.config/fresh/themes/
 
 <h2 align="center" id="related-repos">Related Repos</h2>
 <ul>
-  <li><a href="https://github.com/xscriptor-colors/terminal">Terminal </a> <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/terminal-bash.svg" /></li>
-  <li><a href="https://github.com/xscriptor-colors/nvim">Nvim </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/file-text.svg"/></li>
-  <li><a href="https://github.com/xscriptor-colors/jetbrains">Jetbrains </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/project.svg"/></li>
-  <li><a href="https://github.com/xscriptor/gitnapse">Gitnapse </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github-alt.svg"/></li>
-  <li><a href="https://github.com/xscriptor-colors/obsidian">Obsidian </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/markdown.svg"/></li>
-  <li><a href="https://github.com/xscriptor/xfetch">XFetch </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/git-fetch.svg"/></li>
-  <li><a href="https://github.com/xscriptor-colors/vscode">Vscode </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/project.svg"/></li>
+  <li><a href="https://github.com/xscriptor-colors/terminal">Terminal </a></li>
+  <li><a href="https://github.com/xscriptor-colors/nvim">Nvim </a></li>
+  <li><a href="https://github.com/xscriptor-colors/jetbrains">Jetbrains </a></li>
+  <li><a href="https://github.com/gitnapse/gitnapse">Gitnapse </a></li>
+  <li><a href="https://github.com/xscriptor-colors/obsidian">Obsidian </a></li>
+  <li><a href="https://github.com/xfetch-cli/xfetch">XFetch </a></li>
+  <li><a href="https://github.com/xscriptor-colors/vscode">Vscode </a></li>
 </ul>
 
 <div id="x" align="center">
 <h2>X</h2>
 
-<a href="https://xscriptor.io">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
-</a>
+<a href="https://xscriptor.io">Dev</a>
  & 
-<a href="https://github.com/xscriptor">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
-</a>
+<a href="https://github.com/xscriptor">github</a>
  & 
-<a href="https://www.xscriptor.com">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
-</a>
+<a href="https://www.xscriptor.com">X</a>
 
 </div>
