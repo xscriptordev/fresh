@@ -28,8 +28,7 @@
 
 <!-- Previews -->
 <h2 align="center"><em>Previews</em></h2>
-<video src="https://xscriptor-colors.github.io/web/images/fresh/preview.mp4" width="900" controls muted loop playsinline autoplay>
-</video>
+<img src="https://xscriptor-colors.github.io/web/images/gifs/fresh/fresh-demo.gif" width="900" alt="Fresh Demo" >
 
 <details>
   <summary>More</summary>
